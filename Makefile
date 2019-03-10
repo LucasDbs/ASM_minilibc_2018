@@ -11,12 +11,13 @@ DIR		=	src
 
 SRCS		=	$(DIR)/strlen.asm		\
 			$(DIR)/strchr.asm		\
+			$(DIR)/strcmp.asm		\
+			$(DIR)/memcpy.asm		\
 			# $(DIR)/memcpy.asm		\
 			$(DIR)/memset.asm		\
 			$(DIR)/memmove.asm		\
 			$(DIR)/rindex.asm		\
 			$(DIR)/strcasecmp.asm		\
-			$(DIR)/strcmp.asm		\
 			$(DIR)/strcspn.asm		\
 			$(DIR)/strncmp.asm		\
 			$(DIR)/strpbrk.asm		\
