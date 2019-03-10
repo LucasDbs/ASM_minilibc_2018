@@ -11,7 +11,6 @@ DIR		=	src
 
 SRCS		=	$(DIR)/strlen.asm		\
 			$(DIR)/strchr.asm		\
-			$(DIR)/strcmp.asm		\
 			$(DIR)/memcpy.asm		\
 			# $(DIR)/memcpy.asm		\
 			$(DIR)/memset.asm		\
